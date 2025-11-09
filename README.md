@@ -49,7 +49,9 @@ With communication established, we needed a real-world use case. We chose to inc
 - https://gerrit.automotivelinux.org/gerrit/c/AGL/meta-agl-devel/+/31266?usp=dashboard
 - https://gerrit.automotivelinux.org/gerrit/c/AGL/AGL-repo/+/31178?usp=search
 - https://gerrit.automotivelinux.org/gerrit/c/AGL/meta-agl-devel/+/31100?usp=search
-- https://github.com/danascape/ros-flutter
+- https://gerrit.automotivelinux.org/gerrit/c/apps/flutter-ros-demo/+/31275?usp=search
+- https://gerrit.automotivelinux.org/gerrit/c/apps/flutter-ros-demo/+/31276?usp=search
+- [https://github.com/danascape/flutter-ros-demo](https://github.com/danascape/flutter-ros-demo)
 
 ## Images:
 ![](assets/1.jpg)
@@ -58,4 +60,5 @@ With communication established, we needed a real-world use case. We chose to inc
 ![](assets/4.jpg)
 ![](assets/5.jpg)
 ![](assets/6.jpg)
+
 
